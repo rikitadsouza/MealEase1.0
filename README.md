@@ -20,5 +20,5 @@ MealEase 1.0 is a web application developed using HTML, CSS, and JavaScript. It 
 
 MealEase 1.0 is a frontend demonstration project showcasing basic web development skills with HTML, CSS, and JavaScript.
 
-## License
+
 
