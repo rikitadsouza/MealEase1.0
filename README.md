@@ -22,4 +22,3 @@ MealEase 1.0 is a frontend demonstration project showcasing basic web developmen
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
